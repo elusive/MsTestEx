@@ -13,7 +13,7 @@ So in order to utilize the new extensions you must decorate your test class with
 
 Here is an example of the usage, including a regular TestMethod and including the new TestCase row test method:
 
-''''csharp
+''''c#
 namespace ApplicationServices.Tests
 {
     [TestClassEx]
