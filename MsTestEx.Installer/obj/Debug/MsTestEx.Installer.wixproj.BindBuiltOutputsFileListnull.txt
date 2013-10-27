@@ -1,0 +1,2 @@
+C:\Users\jgilliland\documents\visual studio 2012\Projects\MsTestEx\MsTestEx.Installer\bin\Debug\MsTestEx.Installer.msi
+C:\Users\jgilliland\documents\visual studio 2012\Projects\MsTestEx\MsTestEx.Installer\bin\Debug\MsTestEx.Installer.wixpdb

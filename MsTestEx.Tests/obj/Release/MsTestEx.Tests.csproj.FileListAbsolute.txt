@@ -1,0 +1,7 @@
+C:\Users\jgilliland\Documents\Visual Studio 2012\Projects\MsTestEx\MsTestEx.Tests\bin\Release\MsTestEx.Tests.dll
+C:\Users\jgilliland\Documents\Visual Studio 2012\Projects\MsTestEx\MsTestEx.Tests\bin\Release\MsTestEx.Tests.pdb
+C:\Users\jgilliland\Documents\Visual Studio 2012\Projects\MsTestEx\MsTestEx.Tests\bin\Release\MsTestEx.dll
+C:\Users\jgilliland\Documents\Visual Studio 2012\Projects\MsTestEx\MsTestEx.Tests\bin\Release\MsTestEx.pdb
+C:\Users\jgilliland\Documents\Visual Studio 2012\Projects\MsTestEx\MsTestEx.Tests\obj\Release\MsTestEx.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jgilliland\Documents\Visual Studio 2012\Projects\MsTestEx\MsTestEx.Tests\obj\Release\MsTestEx.Tests.dll
+C:\Users\jgilliland\Documents\Visual Studio 2012\Projects\MsTestEx\MsTestEx.Tests\obj\Release\MsTestEx.Tests.pdb
