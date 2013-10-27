@@ -1,5 +1,0 @@
-c:\users\jgilliland\documents\visual studio 2012\Projects\MsTestEx\MsTestEx\bin\Debug\MsTestEx.dll
-c:\users\jgilliland\documents\visual studio 2012\Projects\MsTestEx\MsTestEx\bin\Debug\MsTestEx.pdb
-c:\users\jgilliland\documents\visual studio 2012\Projects\MsTestEx\MsTestEx\obj\Debug\MsTestEx.dll
-c:\users\jgilliland\documents\visual studio 2012\Projects\MsTestEx\MsTestEx\obj\Debug\MsTestEx.pdb
-C:\Users\jgilliland\Documents\Visual Studio 2012\Projects\MsTestEx\MsTestEx\obj\Debug\MsTestEx.csprojResolveAssemblyReference.cache

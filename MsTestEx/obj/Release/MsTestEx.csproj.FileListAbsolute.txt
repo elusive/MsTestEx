@@ -1,5 +1,0 @@
-C:\Users\jgilliland\Documents\Visual Studio 2012\Projects\MsTestEx\MsTestEx\bin\Release\MsTestEx.dll
-C:\Users\jgilliland\Documents\Visual Studio 2012\Projects\MsTestEx\MsTestEx\bin\Release\MsTestEx.pdb
-C:\Users\jgilliland\Documents\Visual Studio 2012\Projects\MsTestEx\MsTestEx\obj\Release\MsTestEx.csprojResolveAssemblyReference.cache
-C:\Users\jgilliland\Documents\Visual Studio 2012\Projects\MsTestEx\MsTestEx\obj\Release\MsTestEx.dll
-C:\Users\jgilliland\Documents\Visual Studio 2012\Projects\MsTestEx\MsTestEx\obj\Release\MsTestEx.pdb
